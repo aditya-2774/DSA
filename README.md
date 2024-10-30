@@ -1,2 +1,2 @@
 # DSA
-My Daily DSA practice from Leetcode and GFG
+My Daily DSA problem solutions from Leetcode and GFG
